@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello There!!
+          This is a test app for CI/CD
         </p>
         <a
           className="App-link"
