@@ -8,7 +8,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello There!!
-          This is a test app for CI/CD
+          This test app was deployed with:<br/>
+          Docker, Travis CI, Nginx, AWS Elastic Beanstalk<br/>
+          by using CI/CD pipeline.
         </p>
         <a
           className="App-link"
