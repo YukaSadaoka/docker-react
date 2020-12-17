@@ -2,4 +2,4 @@
 
 This test app is deployed with:
 
-React, Docker, Travis CI, AWS Elastic Beanstalk
+React, Docker, Travis CI, Nginx, AWS Elastic Beanstalk
