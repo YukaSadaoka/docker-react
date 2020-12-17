@@ -10,7 +10,7 @@ function App() {
           Hello There!!
           This test app was deployed with:<br/>
           Docker, Travis CI, Nginx, AWS Elastic Beanstalk<br/>
-          by using CI/CD pipeline.
+          by using CI/CD pipeline by YukaSadaoka.
         </p>
         <a
           className="App-link"
